@@ -3,10 +3,13 @@ I'm passionate about web development, game development, digital art, and 3D prin
 
 ### 🧙 Web development
 I thrive in the open-source community, with a strong passion for the Python ecosystem, particularly Flask. Crafting various extensions for Flask has driven me to prioritize code quality through rigorous testing, continuous integration, and thorough documentation.
+<details>
+<summary><b>Standout projects</b></summary>
 
-> #### Standout projects:
 > - [flask-favicon](https://github.com/maxdup/flask-favicon) (An extension that generates and serves favicon assets for diverse platforms)
 > - [flask-cache-manifest](https://github.com/maxdup/flask-cache-manifest) (An extension for serving hashed assets via cache-busting manifests.).
+
+</details>
 
 ---
 
@@ -15,17 +18,25 @@ I'm passionate about crafting immersive gameplay environments and scenarios, and
 
 Checkout my [Level design portfolio](https://mdupuis.com)
 
-> #### Standout projects:
+<details>
+<summary><b>Standout projects</b></summary>
+
 > - [pySourceSDK](https://pysourcesdk.github.io/hub/) (A collection of Python libraries to handle various game asset file types)
 > - [The Orange Toolbox](https://github.com/The-Orange-Toolbox) (Automations and debugging tools for the Source engine).
 > - [CompilePal](https://github.com/ruarai/CompilePal) (Build tools and bundler for level creation)
+
+</details>
 
 ---
 
 ### 🎨 Digital art
 My journey began in graphic design, but coding has unlocked a world of endless visual possibilities. From generative art to photogrammetry, CAD, and shaders, I'm continually exploring new horizons that coding offers.
 
-> #### Fun projects:
+<details>
+<summary><b>Fun projects</b></summary>
+
 > - [xmas-iotree](https://github.com/maxdup/xmas-iotree/tree/master) (Position based runtime for individually addressable RGB LED sequences)
+
+</details>
 
 ---
