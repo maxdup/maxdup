@@ -2,8 +2,7 @@
 I'm passionate about web development, game development, digital art, and 3D printing.
 
 ### 🧙 Web development
-I thrive in the open-source community, with a strong passion for the Python ecosystem, particularly Flask. Crafting various extensions for Flask has driven me\
- to prioritize code quality through rigorous testing, continuous integration, and thorough documentation.
+I thrive in the open-source community, with a strong passion for the Python ecosystem, particularly Flask. Crafting various extensions for Flask has driven me to prioritize code quality through rigorous testing, continuous integration, and thorough documentation.
 
 > #### Standout projects:
 > - [flask-favicon](https://github.com/maxdup/flask-favicon) (An extension that generates and serves favicon assets for diverse platforms)
@@ -12,8 +11,7 @@ I thrive in the open-source community, with a strong passion for the Python ecos
 ---
 
 ### 👾 Game development
-I'm passionate about crafting immersive gameplay environments and scenarios, and I'm proud to have my work featured in top-tier games. Additionally, I've acti\
-vely contributed to the development of game-enhancing tools, aimed at elevating not only my own creations but also those of fellow community members.
+I'm passionate about crafting immersive gameplay environments and scenarios, and I'm proud to have my work featured in top-tier games. Additionally, I've actively contributed to the development of game-enhancing tools, aimed at elevating not only my own creations but also those of fellow community members.
 
 Checkout my [Level design portfolio](https://mdupuis.com)
 
@@ -25,8 +23,7 @@ Checkout my [Level design portfolio](https://mdupuis.com)
 ---
 
 ### 🎨 Digital art
-My journey began in graphic design, but coding has unlocked a world of endless visual possibilities. From generative art to photogrammetry, CAD, and shaders, \
-I'm continually exploring new horizons that coding offers.
+My journey began in graphic design, but coding has unlocked a world of endless visual possibilities. From generative art to photogrammetry, CAD, and shaders, I'm continually exploring new horizons that coding offers.
 
 > #### Fun projects:
 > - [xmas-iotree](https://github.com/maxdup/xmas-iotree/tree/master) (Position based runtime for individually addressable RGB LED sequences)
