@@ -3,6 +3,9 @@ I'm passionate about web development, game development, digital art, and 3D prin
 
 ### 🧙 Web development
 I thrive in the open-source community, with a strong passion for the Python ecosystem, particularly Flask. Crafting various extensions for Flask has driven me to prioritize code quality through rigorous testing, continuous integration, and thorough documentation.
+
+Checkout my [Personal web page](https://maxdup.dev)
+
 <details>
 <summary><b>Standout projects</b></summary>
 
